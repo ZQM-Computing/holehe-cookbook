@@ -35,6 +35,8 @@ Practitioners who test whether an email is registered on public services.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-check` | A first presence check and its output |
